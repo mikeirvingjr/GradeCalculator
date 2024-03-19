@@ -1,0 +1,16 @@
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\bin\Debug\net8.0\GradeCalculator.UseCases.deps.json
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\bin\Debug\net8.0\GradeCalculator.UseCases.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\bin\Debug\net8.0\GradeCalculator.UseCases.pdb
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\bin\Debug\net8.0\GradeCalculator.Core.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\bin\Debug\net8.0\GradeCalculator.Core.pdb
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.csproj.AssemblyReference.cache
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.AssemblyInfoInputs.cache
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.AssemblyInfo.cs
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.csproj.CoreCompileInputs.cache
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.sourcelink.json
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.csproj.CopyComplete
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\refint\GradeCalculator.UseCases.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\GradeCalculator.UseCases.pdb
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.UseCases\obj\Debug\net8.0\ref\GradeCalculator.UseCases.dll

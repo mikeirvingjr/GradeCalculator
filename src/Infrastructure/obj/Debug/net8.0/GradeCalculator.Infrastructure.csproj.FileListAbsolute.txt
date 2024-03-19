@@ -1,0 +1,12 @@
+D:\Projects\GradeCalculator\src\Infrastructure\bin\Debug\net8.0\GradeCalculator.Infrastructure.deps.json
+D:\Projects\GradeCalculator\src\Infrastructure\bin\Debug\net8.0\GradeCalculator.Infrastructure.dll
+D:\Projects\GradeCalculator\src\Infrastructure\bin\Debug\net8.0\GradeCalculator.Infrastructure.pdb
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.AssemblyInfo.cs
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.sourcelink.json
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.dll
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\refint\GradeCalculator.Infrastructure.dll
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\GradeCalculator.Infrastructure.pdb
+D:\Projects\GradeCalculator\src\Infrastructure\obj\Debug\net8.0\ref\GradeCalculator.Infrastructure.dll

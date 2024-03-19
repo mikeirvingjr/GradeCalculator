@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\GradeCalculator.Core\GradeCalculator.Core.csproj" />
+    <ProjectReference Include="..\Core\GradeCalculator.UseCases\GradeCalculator.UseCases.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0.0</Version>
+    <FileVersion>1.0.0.0</FileVersion>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Authors>Michael A. Irving, Jr.</Authors>
+    <Company>Productive Sloth Entertainment</Company>
+    <Product>Grade Calculator Infrastructure Libraries</Product>
+  </PropertyGroup>
+
+</Project>

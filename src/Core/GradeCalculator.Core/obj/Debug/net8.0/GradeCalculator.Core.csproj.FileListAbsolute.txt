@@ -1,0 +1,12 @@
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\bin\Debug\net8.0\GradeCalculator.Core.deps.json
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\bin\Debug\net8.0\GradeCalculator.Core.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\bin\Debug\net8.0\GradeCalculator.Core.pdb
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.AssemblyInfoInputs.cache
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.AssemblyInfo.cs
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.csproj.CoreCompileInputs.cache
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.sourcelink.json
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\refint\GradeCalculator.Core.dll
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\GradeCalculator.Core.pdb
+D:\Projects\GradeCalculator\src\Core\GradeCalculator.Core\obj\Debug\net8.0\ref\GradeCalculator.Core.dll

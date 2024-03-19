@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1sZaQG8vPWaE/Tf42VbGclUokoYkpfZ5ke9HASXgyotL1vK0WATRjFyFRvq9cIwC4DUrG83FjtWVszVTVRpRw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GradeCalculator\\src\\Core\\GradeCalculator.UseCases\\GradeCalculator.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Mike\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
